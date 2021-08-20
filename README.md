@@ -24,6 +24,7 @@ Mapbox is the location data platform for mobile and web applications. Mapbox pro
 ### Software/Web Applications: 
 
 - [GitHub Account](https://github.com/) – for viewing and submitting course assignments.
+- Create my own branch of this document
 - [Visual Studio Code](https://code.visualstudio.com/) – for navigating and editing code documents.
 - [Chrome Developer tools](https://developers.google.com/web/tools/chrome-devtools) – for debugging websites and network activity.
 - [Mapbox Account](https://account.mapbox.com/auth/signup/) – for designing maps in Mapbox Studio, developing interactive  web maps with Mapbox GL JS.
